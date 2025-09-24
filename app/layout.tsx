@@ -5,14 +5,14 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: '명품한우 동천점',
-  description: '명품한우 동천점',
-  metadataBase: new URL('https://myungpumhanwoo.vercel.app'),
+  title: '삼삼데이 태전점',
+  description: '삼삼데이 태전점',
+  metadataBase: new URL('https://samsamday.vercel.app'),
   openGraph: {
-    title: '명품한우 동천점',
-    description: '명품한우 동천점',
-    siteName: '명품한우 동천점',
-    url: 'https://myungpumhanwoo.vercel.app',
+    title: '삼삼데이 태전점',
+    description: '삼삼데이 태전점',
+    siteName: '삼삼데이 태전점',
+    url: 'https://samsamday.vercel.app',
     locale: 'ko_KR',
     type: 'website',
     images: [
@@ -20,19 +20,19 @@ export const metadata: Metadata = {
         url: '/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: '명품한우 동천점',
+        alt: '삼삼데이 태전점',
       }
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: '명품한우 동천점',
-    description: '명품한우 동천점',
-    site: '@myungpumhanwoo',
-    creator: '@myungpumhanwoo',
+    title: '삼삼데이 태전점',
+    description: '삼삼데이 태전점',
+    site: '@samsamday',
+    creator: '@samsamday',
   },
   alternates: {
-    canonical: 'https://myungpumhanwoo.vercel.app',
+    canonical: 'https://samsamday.vercel.app',
   },
 }
 
